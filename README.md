@@ -9,3 +9,4 @@ The proposed system will be a 2D graphical simulation that includes:
 •	Traffic signals for road management
 •	Basic user interaction using keyboard input
 
+More details are added on the docx file uploaded
